@@ -1,0 +1,23 @@
+{
+  "name": "sunset",
+  "version": "1.0.0",
+  "description": "a spider test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "spider"
+  ],
+  "author": "Neo_Shan",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.20.0",
+    "json2xls": "^0.1.2",
+    "moment": "^2.14.1",
+    "superagent": "^2.1.0",
+    "underscore": "^1.8.3"
+  }
+}
